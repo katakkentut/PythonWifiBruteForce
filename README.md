@@ -20,6 +20,6 @@ Crack In Range Wifi With Python
 
 
 
-## Tutorial
+## Demo
 
 <img src="https://github.com/katakkentut/PythonWifiBruteForce/blob/master/Tutorial/tutorial.gif" width="600" height="600">
