@@ -12,7 +12,7 @@ Crack In Range Wifi With Python
 ```
 
 
-## Best Password Dictinory
+## WPA2 Password Dictinory
 
  - [Danielmiessler - SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords/WiFi-WPA)
  - [Kennyn510 - wpa2-wordlists](https://github.com/kennyn510/wpa2-wordlists)
